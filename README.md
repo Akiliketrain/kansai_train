@@ -62,4 +62,4 @@ python3 data/jr_west/jr_predict_31classes.py
 
 ##  Demo Video
 I deployed and tested this system on a video inference task. You can watch the full demonstration here:
-(https://drive.google.com/file/d/1u6z-nxq-Q88zivFK6C9FqIgUKwNxJE4g/view?usp=drive_link)
+[(https://drive.google.com/file/d/1u6z-nxq-Q88zivFK6C9FqIgUKwNxJE4g/view?usp=drive_link)]
